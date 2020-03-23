@@ -36,7 +36,7 @@ Authentification is made via email and password (not via username as FirebaseAut
 <!-- CONTACT -->
 ## Contact
 
-Vika Kaplnuova - [https://www.linkedin.com/in/vika-kaplunova-80920b199](https://www.linkedin.com/in/vika-kaplunova-80920b199/) - email@example.com
+Vika Kaplnuova - [https://www.linkedin.com/in/vika-kaplunova-80920b199](https://www.linkedin.com/in/vika-kaplunova-80920b199/) 
 
 Project Link: [https://github.com/vikos-ka/NewsAndProfilee](https://github.com/vikos-ka/NewsAndProfile)
 
