@@ -1,0 +1,13 @@
+.nav__bar ul {
+    width: 50%;
+}
+
+.link__item {
+    width: 25%;
+    text-align: center;
+    cursor: pointer;
+}
+
+button {
+    margin-left: 20px;
+}

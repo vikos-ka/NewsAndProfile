@@ -1,0 +1,35 @@
+.login__container {
+    width: 50%;
+    margin: 10% auto;
+    border: 2px solid #5e35b1;
+    border-radius: 25px;
+        
+}
+
+.login__container h5{
+    margin: 10% auto;   
+    text-align: center; 
+}
+.login__container h5::after{   
+    content: "";
+    display: block;
+    background-color: #ec407a;
+    width: 50px;
+    margin: 20px auto;
+    height: 3px;
+}
+
+.login__container form{
+    width: 80%;
+    margin: 0 auto;
+        
+}
+
+.button__container{
+    display: flex;
+    margin: 20px 0
+}
+
+.button__container button{
+    flex-direction: column-reverse;
+}
