@@ -26,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][/image/k0ZXDE]](https://picua.org)
+![Иллюстрация к проекту](https://github.com/vikos-ka/NewsAndProfile/raw/master/public/screenshot.png)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -40,7 +40,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [React](https://materializecss.com/)
 * [Redux](https://materializecss.com/)
 * [Firebase](https://firebase.google.com/)
